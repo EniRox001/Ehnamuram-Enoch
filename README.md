@@ -1,7 +1,7 @@
 Hi 👋 My name is Enoch Ehnamuram
 ================================
 
-Web and Mobile App Developer
+Software Engineer
 ----------------------------
 
 I am a Full Stack Developer, I can build web applications from scratch with JavaScript, TypeScipt, React, and Node. Also, have experience in Python, Django & Flask. For the Mobile development, I use Flutter, Firebase & Appwrite in my projects. In addition to that, I do some database management using MySQL and MongoDB. Also, I have got a knowledge of UI Development on Figma
